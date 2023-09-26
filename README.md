@@ -15,5 +15,4 @@ To use this generator, enter your desired password and follow the prompts given.
 N/A
 
 ## License
-
 Please refer to the LICENSE in the repo.
